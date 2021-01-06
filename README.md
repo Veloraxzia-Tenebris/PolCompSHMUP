@@ -1,2 +1,2 @@
 # PolCompSHMUP
- Political compass ball shoot 'em up.
+Political compass balls, but as a shoot 'em up.
